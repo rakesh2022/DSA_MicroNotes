@@ -14,3 +14,5 @@ GRAPH:
         github_link : https://github.com/rakesh2022/Graph/blob/main/Sanke_and_Ladder.cpp
        b) Find Bridge in Graph
          github_link: https://github.com/rakesh2022/Graph/blob/main/Find_Bridges_in_graph.cpp 
+       c) Check graph is bipartite or not  
+          github_link: https://github.com/rakesh2022/Graph/blob/main/Check_if_graph_is_partite_or_not.cpp
