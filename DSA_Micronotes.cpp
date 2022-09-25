@@ -16,3 +16,7 @@ GRAPH:
          github_link: https://github.com/rakesh2022/Graph/blob/main/Find_Bridges_in_graph.cpp 
        c) Check graph is bipartite or not  
           github_link: https://github.com/rakesh2022/Graph/blob/main/Check_if_graph_is_partite_or_not.cpp
+       d) check negative cycle in graph
+            use belman ford algo
+
+
