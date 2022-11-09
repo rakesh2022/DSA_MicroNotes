@@ -22,4 +22,9 @@ GRAPH:
           github_link: https://github.com/rakesh2022/Graph/blob/main/Longest_path_in_DAG.cpp
        f) Journey to the moon
           githun Link: https://github.com/viren-sureja/Love-Babbar-450/blob/master/12_graph/31_journey_to_the_moon.cpp
+          
+====================================================================================================================================================
+   STRING
+   KMP;
+https://leetcode.com/problems/shortest-palindrome/discuss/60113/clean-kmp-solution-with-super-detailed-explanation
 
